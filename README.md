@@ -17,3 +17,11 @@ This project simulates how a Success Academy Assessment Associate could process,
 - VS Code
 
 ## 📂 Project Structure
+assessment-tracker/          <- Your main project folder
+├── data/                    <- Folder for raw CSV files (input data)
+├── output/                  <- Folder for cleaned data (e.g., `cleaned_assessments.csv`)
+├── scripts/                 <- Python scripts, especially `clean_data.py`
+├── dashboard/               <- The Streamlit app (including `app.py`)
+├── generate_report.ipynb    <- Notebook for exploring or analyzing data
+└── README.md                <- Project overview file (the one we're editing now)
+
