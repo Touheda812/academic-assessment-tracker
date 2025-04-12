@@ -1,19 +1,19 @@
-# Academic Assessment Tracker & Reporting Tool
+# 📊 Academic Assessment Tracker
 
-This project simulates an internal tool used by Assessment Associates at schools to manage, clean, and report on academic assessments. It includes:
+This project simulates how a Success Academy Assessment Associate could process, clean, and analyze student academic data. It includes tools for data wrangling, reporting, and a Streamlit-powered dashboard.
 
-- Data cleaning scripts
-- Summary report generator
-- Dashboard visualization (optional)
+## 🚀 Features
 
-## Technologies Used
-- Python
-- pandas
-- openpyxl
-- streamlit (optional)
+- ✅ Clean messy CSV student data with Python
+- 📈 Generate summary reports (students needing interventions, average scores)
+- 📊 Interactive dashboard with filters and charts
+- 📂 Simple file structure for easy extension
 
-## Folder Structure
-- `data/` - contains raw assessment data (CSV)
-- `scripts/` - cleaning and reporting scripts
-- `output/` - final Excel reports
-- `dashboard/` - interactive dashboard notebook or script
+## 🛠️ Tools Used
+
+- Python (pandas, numpy)
+- Streamlit
+- Jupyter Notebook
+- VS Code
+
+## 📂 Project Structure
