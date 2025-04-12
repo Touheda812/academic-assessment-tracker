@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-df = pd.read_csv("../output/cleaned_assessments.csv")
+df = pd.read_csv("output/cleaned_assessments.csv")
 
 st.title("Academic Assessment Dashboard")
 
